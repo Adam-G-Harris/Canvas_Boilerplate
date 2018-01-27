@@ -1,2 +1,2 @@
 # Canvas_Boilerplate
-HTML5 canvas boilerplate to skip the repetitive startup process.
+HTML5 canvas boilerplate to forgo the repetitive startup process.
