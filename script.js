@@ -1,7 +1,7 @@
 // HTML5 canvas boilerplate
 // Resizes canvas size based on device pixel aspect ratio
 // Particles can only spawn within canvas dimensions
-// Creates 1000 particles with varying radiuses
+// Creates 1000 particles with varying radii
 // Provides basic math random functions
 
 window.onload = () => {
